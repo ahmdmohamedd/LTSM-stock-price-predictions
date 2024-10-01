@@ -124,12 +124,12 @@ The model's predictions for the test data are plotted along with the actual stoc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-market-prediction-lstm.git
+   git clone https://github.com/ahmdmohamedd/LTSM-stock-price-predictions.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd stock-market-prediction-lstm
+   cd LTSM-stock-price-predictions
    ```
 
 3. Run the Jupyter notebook to train the model and make predictions:
